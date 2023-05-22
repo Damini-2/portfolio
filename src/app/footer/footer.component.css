@@ -1,0 +1,9 @@
+.bgcolor{
+/* background-color: rgb(210, 45, 125); */
+background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+.logo{
+    color: rgb(210, 45, 125);
+    font-weight: bold;
+}

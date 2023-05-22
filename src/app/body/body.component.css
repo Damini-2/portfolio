@@ -1,0 +1,19 @@
+.bgcolor{
+    background: linear-gradient(43deg, #3244ce 30%, #58c1d5 46%, #2ca6d8 100%);
+    -webkit-text-fill-color: transparent;
+	  -webkit-background-clip: text;
+}
+
+/* .text{
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+} */
+    
+.bgcolor{
+  font-size: 70px;
+}
+p{
+  font-size: 20px;
+  text-align: justify;
+}

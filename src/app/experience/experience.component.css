@@ -1,0 +1,14 @@
+ol {
+    list-style-type: none;
+}
+.btn{
+    border-radius: 50px;
+}
+.btn{
+    background-color: #f3fcfd;
+    background-image: linear-gradient(43deg, #f3fcfd 0%, #9fe0dd 46%, #51c3f7 100%);
+    border: 0;
+    border-radius: 10px;
+    color: black;
+    
+}
